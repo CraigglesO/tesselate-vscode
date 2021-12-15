@@ -2,8 +2,9 @@
     "name": "tesselate",
     "displayName": "tesselate",
     "description": "A darker pastel syntax theme for the more artistic folk",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "LICENSE": "ISC",
+    "publisher": "MrMartian",
     "repository": {
       "type": "git",
       "url": "https://github.com/CraigglesO/tesselate-vscode"
