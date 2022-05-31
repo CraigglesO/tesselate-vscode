@@ -833,7 +833,7 @@
     },
     {
       "name": "keyword control export",
-      "scope": "keyword.control.export.js",
+      "scope": "keyword.control.export",
       "settings": {
         "foreground": "#e2c583"
       }

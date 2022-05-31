@@ -13,3 +13,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 * removed yellow for now
 * fixed so background and gutter are the same
+
+## 0.0.6
+
+* improved export coloring to support typescript as well
